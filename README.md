@@ -1,8 +1,8 @@
 # Vistula Task Manager
 
 - **Student ID:** 73249
-- **GitHub:** https://github.com/USERNAME/vistula-task-manager
-- **Live app:** https://USERNAME.github.io/vistula-task-manager/
+- **GitHub:** https://github.com/vistula-team-project-73249/vistula-task-manager
+- **Live app:** https://vistula-team-project-73249.github.io/vistula-task-manager/
 
 Simple Task Manager (HTML/CSS/JS) using a Supabase database and its REST API, hosted on GitHub Pages.
 
